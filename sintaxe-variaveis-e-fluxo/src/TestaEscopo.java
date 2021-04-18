@@ -4,7 +4,7 @@ public class TestaEscopo {
         System.out.println("testando condicionais");
 
         int idade = 20;
-        //int quantidadePessoas = 3;
+        int quantidadePessoas = 3;
         //boolean acompanhado = quantidadePessoas >= 2;
 
         /*
