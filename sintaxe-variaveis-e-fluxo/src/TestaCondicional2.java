@@ -6,7 +6,7 @@ public class TestaCondicional2 {
 
         int idade = 20;
         //int idade = 16;
-        //int quantidadePessoas = 3;
+        int quantidadePessoas = 3;
         //int quantidadePessoas = 1;
         //boolean acompanhado = true;
         boolean acompanhado = quantidadePessoas >= 2; //apenas true ou false / expressões booleanas
